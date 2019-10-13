@@ -14,4 +14,11 @@ $ meteor run
 ```
 
 
+## Running with custom mongo
+```
+$ MONGODB=http://localhost:8422 meteor run
+```
+
+
+
 
